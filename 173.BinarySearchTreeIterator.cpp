@@ -34,8 +34,6 @@ public:
 
 
 };
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
 /**
  * Your BSTIterator object will be instantiated and called as such:
  * BSTIterator* obj = new BSTIterator(root);
